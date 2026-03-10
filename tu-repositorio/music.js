@@ -175,4 +175,5 @@ const MusicModule = {
 };
 
 // Para debug
+
 console.log('🎵 MusicModule cargado correctamente');
